@@ -60,6 +60,13 @@ article {
     right: 8px; 
 }
 
+.project4 {
+    margin: 3px;
+    display: inline;
+    width: 33%;
+    right: 8px; 
+}
+
 section {
     font-size:x-large;
 }
